@@ -1,0 +1,5 @@
+witaj!
+hej!
+hello!
+siema!
+
